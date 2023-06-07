@@ -1,2 +1,2 @@
 #!/bin/bash
-projet Linux
+echo"projet Linux"
